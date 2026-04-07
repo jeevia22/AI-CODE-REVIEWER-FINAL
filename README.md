@@ -32,14 +32,6 @@ It combines static analysis with AI-driven suggestions to deliver real-time feed
 * Best practices based on PEP8
 * Time & space complexity insights
 
-### 🧪 Test Case Generation *(Advanced Feature)*
-
-* Automatically generates:
-
-  * Normal test cases
-  * Edge cases
-  * Expected outputs
-* Helps developers validate logic effectively
 
 ### 📊 Clean UI Dashboard
 
