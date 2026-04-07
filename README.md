@@ -50,10 +50,7 @@ It combines static analysis with AI-driven suggestions to deliver real-time feed
   * AI Suggestions
 * Easy-to-use and developer-friendly interface
 
-### 📄 Downloadable Report
 
-* Export analysis results as a professional PDF
-* Useful for documentation and reviews
 
 ---
 
@@ -85,7 +82,7 @@ It combines static analysis with AI-driven suggestions to deliver real-time feed
 
 ### Other Tools
 
-* ReportLab (PDF generation)
+
 * dotenv (environment management)
 
 ---
